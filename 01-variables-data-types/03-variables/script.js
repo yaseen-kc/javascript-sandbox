@@ -55,7 +55,6 @@ arr.push[5];
 
 console.log(arr);
 
-
 console.log(num);
 
 const person = {
